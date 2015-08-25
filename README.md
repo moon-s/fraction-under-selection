@@ -12,7 +12,7 @@ Python function for estimating the fraction of sites under purifying selection o
 # USAGE
 estimatef.py test_SFS_file ref_SFS_file
 Command line example:  
-> python estimate.py test_n5000.sfs ref_n5000.sfs
+> python estimate.py ex_test.sfs ex_ref.sfs
 
 # CITATION 
 Sunjin Moon & Joshua Akey, 2015
